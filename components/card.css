@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.question-card {
+  margin: 10px;
+  border: 2px solid;
+}
+
+.question-card-1 {
+  margin-top: 50px;
+}

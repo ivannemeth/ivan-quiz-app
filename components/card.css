@@ -1,13 +1,18 @@
 .question-card {
-  margin: 10px;
+  margin: 30px;
   border: 1px solid;
   border-radius: 10px;
   text-align: center;
   padding: 10px;
+  position: relative;
 }
 
 .question-card-1 {
   margin-top: 70px;
+}
+
+.question-card-10 {
+  margin-bottom: 80px;
 }
 
 .tag-container {
@@ -18,4 +23,12 @@
 
 .tag {
   font-size: 0.6rem;
+}
+
+.bookmark-transparent {
+  position: absolute;
+  width: 20px;
+  height: auto;
+  right: -2px;
+  top: -5px;
 }

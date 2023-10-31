@@ -3,6 +3,7 @@
   justify-content: space-around;
   flex-direction: row;
   position: fixed;
+  padding-top: 10px;
   bottom: 0;
   width: 100vw;
   background-color: var(--main-background-colour);
@@ -11,5 +12,4 @@
 .footer {
   width: 30px;
   height: auto;
-  margin-top: 10px;
 }

@@ -1,0 +1,35 @@
+.question-card {
+  margin: 30px;
+  border: 1px solid;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  background-color: white;
+  box-shadow: 3px 3px 6px grey;
+}
+
+.tag-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.tag {
+  font-size: 0.6rem;
+  font-style: italic;
+}
+
+.bookmark-transparent {
+  position: absolute;
+  width: 20px;
+  height: auto;
+  right: -2px;
+  top: -10px;
+}
+
+.question-title {
+  font-family: var(--button-font);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}

@@ -6,6 +6,7 @@
   padding: 10px;
   position: relative;
   background-color: white;
+  box-shadow: 3px 3px 6px grey;
 }
 
 .tag-container {

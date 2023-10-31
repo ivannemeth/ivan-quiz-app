@@ -16,6 +16,7 @@
 
 .tag {
   font-size: 0.6rem;
+  font-style: italic;
 }
 
 .bookmark-transparent {
@@ -23,9 +24,11 @@
   width: 20px;
   height: auto;
   right: -2px;
-  top: -5px;
+  top: -10px;
 }
 
 .question-title {
   font-family: var(--button-font);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
 }

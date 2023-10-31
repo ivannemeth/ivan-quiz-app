@@ -6,13 +6,15 @@
 }
 
 :root {
+  --background: rgb(210, 210, 220);
   --main-background-colour: rgb(114, 114, 234);
   --button-colour: rgb(88, 88, 211);
   --button-font: Georgia, "Times New Roman", Times, serif;
+  --title-colour: white;
 }
 
 main {
   padding-bottom: 40px;
   padding-top: 40px;
-  background-color: rgb(210, 210, 220);
+  background-color: var(--background);
 }

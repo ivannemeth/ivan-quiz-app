@@ -1,13 +1,16 @@
 button {
   background-color: var(--button-colour);
   font-family: var(--button-font);
+  text-transform: uppercase;
+  color: var(--title-colour);
   border-radius: 10%;
   border: 0;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
+  margin-top: 15px;
   padding: 5px;
-  margin-top: 10px;
+  box-shadow: 3px 3px 6px rgb(8, 8, 101);
 }
 
 button:hover {
-  background-color: greenyellow;
+  background-color: rgb(77, 114, 17);
 }

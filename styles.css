@@ -4,3 +4,8 @@
   font-family: "Times New Roman", Times, serif;
   padding: 0;
 }
+
+:root {
+  --main-background-colour: rgb(114, 114, 234);
+  --button-colour: rgb(88, 88, 211);
+}

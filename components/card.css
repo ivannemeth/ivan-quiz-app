@@ -1,8 +1,21 @@
 .question-card {
   margin: 10px;
-  border: 2px solid;
+  border: 1px solid;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
 }
 
 .question-card-1 {
-  margin-top: 50px;
+  margin-top: 70px;
+}
+
+.tag-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.tag {
+  font-size: 0.6rem;
 }

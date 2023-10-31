@@ -1,8 +1,8 @@
 .title {
   text-align: center;
-  background-color: aquamarine;
-  text-decoration: underline;
+  background-color: var(--main-background-colour);
   position: fixed;
   padding: 5px;
   top: 0px;
+  width: 100vw;
 }

@@ -3,14 +3,13 @@ button {
   font-family: var(--button-font);
   text-transform: uppercase;
   color: var(--title-colour);
-  border-radius: 10%;
-  border: 0;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   margin-top: 15px;
   padding: 5px;
-  box-shadow: 3px 3px 6px rgb(8, 8, 101);
+  border-radius: 15px;
+  border: 0;
 }
 
 button:hover {
-  background-color: rgb(77, 114, 17);
+  background-color: rgb(231, 224, 84);
 }

@@ -1,11 +1,14 @@
 .title {
   text-align: center;
   text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
   background-color: var(--main-background-colour);
   color: var(--title-colour);
   position: fixed;
   padding: 10px;
   top: 0px;
   width: 100vw;
+  box-shadow: 2px 2px 4px rgb(80, 12, 103);
+  border-radius: 15px;
   z-index: 1;
 }

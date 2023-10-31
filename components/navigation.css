@@ -7,9 +7,11 @@
   bottom: 0;
   width: 100vw;
   background-color: var(--main-background-colour);
+
+  border-radius: 15px;
 }
 
 .footer {
-  width: 30px;
+  width: 20px;
   height: auto;
 }

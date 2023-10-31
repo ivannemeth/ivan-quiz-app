@@ -1,9 +1,13 @@
 button {
   background-color: var(--button-colour);
-  font-family: "Courier New", Courier, monospace;
+  font-family: var(--button-font);
   border-radius: 10%;
   border: 0;
   font-size: 0.9rem;
   padding: 5px;
   margin-top: 10px;
+}
+
+button:hover {
+  background-color: greenyellow;
 }

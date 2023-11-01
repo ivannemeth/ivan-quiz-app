@@ -2,6 +2,7 @@
   text-align: center;
   text-transform: uppercase;
   font-family: "Courier New", Courier, monospace;
+  text-shadow: 2px 2px 4px rgb(78, 78, 121);
   background-color: var(--main-background-colour);
   color: var(--title-colour);
   position: fixed;

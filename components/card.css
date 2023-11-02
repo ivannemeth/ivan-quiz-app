@@ -12,7 +12,7 @@
   display: flex;
   justify-content: flex-start;
   gap: 6px;
-  background-color: var(--background);
+
   margin-top: 15px;
   border-radius: 10px;
 }
@@ -20,6 +20,7 @@
 .tag {
   font-size: 0.6rem;
   font-family: var(--button-font);
+  background-color: var(--background);
   font-style: italic;
   padding-top: 4px;
   padding-bottom: 4px;

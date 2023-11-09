@@ -7,7 +7,7 @@
   bottom: 0;
   width: 100vw;
   background-color: var(--main-background-colour);
-  border-radius: 15px;
+  border-radius: 15px 15px 0 0;
 }
 
 .footer--icon {

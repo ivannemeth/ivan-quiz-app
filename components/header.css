@@ -10,6 +10,6 @@
   top: 0px;
   box-shadow: 2px 2px 4px rgb(80, 12, 103);
   width: 100vw;
-  border-radius: 15px;
+  border-radius: 0 0 15px 15px;
   z-index: 1;
 }

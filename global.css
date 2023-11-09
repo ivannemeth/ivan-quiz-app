@@ -18,3 +18,8 @@ body {
   padding-top: 70px;
   background-color: var(--background);
 }
+
+main {
+  display: flex;
+  justify-content: center;
+}

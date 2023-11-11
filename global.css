@@ -6,10 +6,10 @@
 }
 
 :root {
-  --background: rgb(233, 236, 193);
-  --main-background-colour: rgb(192, 98, 197);
+  --background: rgb(218, 173, 216);
+  --main-background-colour: rgb(135, 34, 141);
   --button-colour: rgb(206, 140, 206);
-  --button-font: Georgia, "Times New Roman", Times, serif;
+  --button-font: Verdana, Geneva, Tahoma, sans-serif;
   --title-colour: white;
 }
 
